@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Better Pod Launcher (Continued)</name>
+  <packageId>Mlie.BetterPodLauncher</packageId>
+  <author>Kang060302</author>
+  <url>https://github.com/emipa606/BetterPodLauncher</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Kang060302s mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1639311130
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/BetterPodLauncher][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+Adds More Pod Launcher
+
+-Better Pod Launcher-
+
+Max 200 Fuel
+
+-Super Pod luncher-
+
+Max 250 Fuel
+
+-Ultra Long Pod luncher-
+
+Max 300 Fuel
+
+-Cheap Pod Launcher-
+
+Max 100 Fuel
+charge with steel
+
+-Pod Launcher EX-
+Max 800 Fuel
+Can Place Inside Of the Building
+
+------
+(all pod Launcher needs research)
+
+--Translates-
+Korean Translate by Me (in-Game)
+Japanese Translate Sub-Mod (by Proxyer): https://steamcommunity.com/sharedfiles/filedetails/?id=1640166647
+(Japanese Translate Supports 1.0.0 ~ 1.2.0 Of this mod, it might be not good)
+
+-Changelog-
+1.0.1 added korean
+1.1 Changed Cheap lunch pod lunchers name to cheap pod Launcher, added korean description in steam community
+1.1.1 Fixed English
+1.2.0 Support for 1.1
+2.0.0 English ,Korean Fix Addex Pod Launcher EX,Nuffed Launchers,Changed materials to make it
+2.0.1 Fixed ID for 1.1</description>
+</ModMetaData>
