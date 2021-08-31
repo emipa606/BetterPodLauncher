@@ -1,14 +1,14 @@
 # BetterPodLauncher
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Kang060302s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1639311130
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 Adds More Pod Launcher
 
@@ -49,7 +49,7 @@ Japanese Translate Sub-Mod (by Proxyer): https://steamcommunity.com/sharedfiles/
 2.0.0 English ,Korean Fix Addex Pod Launcher EX,Nuffed Launchers,Changed materials to make it
 2.0.1 Fixed ID for 1.1
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
