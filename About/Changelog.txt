@@ -1,5 +1,8 @@
 # Changelog for BetterPodLauncher
 
+1.4.2 - Podlaunchers should now have the same gizmos as the vanilla one
+
+
 1.4.1 - Mod updated for 1.4 and passed autotests
 
 

@@ -1,5 +1,6 @@
 # BetterPodLauncher
 
+
 ![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Kang060302s mod
@@ -62,4 +63,4 @@ Japanese Translate Sub-Mod (by Proxyer): https://steamcommunity.com/sharedfiles/
 
 
 
-
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2297374652]Last updated 2022-12-01
