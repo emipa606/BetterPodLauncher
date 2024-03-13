@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <tab>BetterLunchPods</tab>
+    <defName>P1BetterLunchPods</defName>
+    <label>Better Pod Launcher</label>
+    <description>Learn to build Better Pod Launcher. (Fuel 200)</description>
+    <baseCost>500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>TransportPod</li>
+    </prerequisites>
+    <researchViewX>0</researchViewX>
+    <researchViewY>3</researchViewY>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <tab>BetterLunchPods</tab>
+    <defName>P2BetterLunchPods</defName>
+    <label>Super Pod Launcher</label>
+    <description>Learn to Super Pod Launcher. (Fuel 250)</description>
+    <baseCost>1000</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>P1BetterLunchPods</li>
+    </prerequisites>
+    <researchViewX>2</researchViewX>
+    <researchViewY>3</researchViewY>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <tab>BetterLunchPods</tab>
+    <defName>P3-1BetterLunchPods</defName>
+    <label>Ultra long Pod Launcher</label>
+    <description>Learn to Ultra long Pod Launcher. (Fuel 300)</description>
+    <baseCost>1000</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>P2BetterLunchPods</li>
+    </prerequisites>
+    <researchViewX>4</researchViewX>
+    <researchViewY>2</researchViewY>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <tab>BetterLunchPods</tab>
+    <defName>P3-2BetterLunchPods</defName>
+    <label>Metal Pod Launcher</label>
+    <description>Learn How to make Metal Pod Launcher. (Fuel 100)(Fuel Chargeable with Steel)</description>
+    <baseCost>1000</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>P2BetterLunchPods</li>
+    </prerequisites>
+    <researchViewX>4</researchViewX>
+    <researchViewY>4</researchViewY>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <tab>BetterLunchPods</tab>
+    <defName>BPLEX_Re</defName>
+    <label>Pod Launcher Ex</label>
+    <description>Learn How to make Best Pod Launcher. (Fuel 800)</description>
+    <baseCost>3000</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>P2BetterLunchPods</li>
+      <li>P3-2BetterLunchPods</li>
+      <li>P3-1BetterLunchPods</li>
+    </prerequisites>
+    <researchViewX>5</researchViewX>
+    <researchViewY>3</researchViewY>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+  </ResearchProjectDef>
+</Defs>

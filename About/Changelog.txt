@@ -1,5 +1,8 @@
 # Changelog for BetterPodLauncher
 
+1.5.0 - Mod updated for 1.5 and passed autotests
+
+
 1.4.3 - Added small launcher, half the size and range of vanilla
 
 
