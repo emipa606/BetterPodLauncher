@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Pod Launcher Ex -->
+  <BPLEX_Re.label>Pod Launcher Ex</BPLEX_Re.label>
+  <!-- EN: Learn How to make Best Pod Launcher. (Fuel 800) -->
+  <BPLEX_Re.description>Learn How to make Best Pod Launcher. (Fuel 800)</BPLEX_Re.description>
+  <!-- EN: Better Pod Launcher -->
+  <P1BetterLunchPods.label>Better Pod Launcher</P1BetterLunchPods.label>
+  <!-- EN: Learn to build Better Pod Launcher. (Fuel 200) -->
+  <P1BetterLunchPods.description>Learn to build Better Pod Launcher. (Fuel 200)</P1BetterLunchPods.description>
+  <!-- EN: Super Pod Launcher -->
+  <P2BetterLunchPods.label>Super Pod Launcher</P2BetterLunchPods.label>
+  <!-- EN: Learn to Super Pod Launcher. (Fuel 250) -->
+  <P2BetterLunchPods.description>Learn to Super Pod Launcher. (Fuel 250)</P2BetterLunchPods.description>
+  <!-- EN: Ultra long Pod Launcher -->
+  <P3-1BetterLunchPods.label>Ultra long Pod Launcher</P3-1BetterLunchPods.label>
+  <!-- EN: Learn to Ultra long Pod Launcher. (Fuel 300) -->
+  <P3-1BetterLunchPods.description>Learn to Ultra long Pod Launcher. (Fuel 300)</P3-1BetterLunchPods.description>
+  <!-- EN: Metal Pod Launcher -->
+  <P3-2BetterLunchPods.label>Metal Pod Launcher</P3-2BetterLunchPods.label>
+  <!-- EN: Learn How to make Metal Pod Launcher. (Fuel 100)(Fuel Chargeable with Steel) -->
+  <P3-2BetterLunchPods.description>Learn How to make Metal Pod Launcher. (Fuel 100)(Fuel Chargeable with Steel)</P3-2BetterLunchPods.description>
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Metal pod Launcher -->
+  <PodLauncherfive.label>Metal pod Launcher</PodLauncherfive.label>
+  <!-- EN: A Metal launch Pod Launcher. Max Fuel 100, Fuel chargeable with Steel -->
+  <PodLauncherfive.description>A Metal launch Pod Launcher. Max Fuel 100, Fuel chargeable with Steel</PodLauncherfive.description>
+  <!-- EN: Ultra pod launcher -->
+  <PodLauncherfour.label>Ultra pod launcher</PodLauncherfour.label>
+  <!-- EN: A Ultra Pod Launcher. Max Fuel 300 -->
+  <PodLauncherfour.description>A Ultra Pod Launcher. Max Fuel 300</PodLauncherfour.description>
+  <!-- EN: small pod launcher -->
+  <PodLauncherMini.label>small pod launcher</PodLauncherMini.label>
+  <!-- EN: A small Pod Launcher. Max Fuel 75 -->
+  <PodLauncherMini.description>A small Pod Launcher. Max Fuel 75</PodLauncherMini.description>
+  <!-- EN: super pod launcher -->
+  <PodLauncherthree.label>super pod launcher</PodLauncherthree.label>
+  <!-- EN: A Super Pod Launcher. Max Fuel 250 -->
+  <PodLauncherthree.description>A Super Pod Launcher. Max Fuel 250</PodLauncherthree.description>
+  <!-- EN: better pod launcher -->
+  <PodLaunchertwo.label>better pod launcher</PodLaunchertwo.label>
+  <!-- EN: A better Pod Launcher. Max Fuel 200 -->
+  <PodLaunchertwo.description>A better Pod Launcher. Max Fuel 200</PodLaunchertwo.description>
+</LanguageData>

@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1220544806
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d0738a02fddc1890a622e3debe0f149
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6d0738a02fddc1890a622e3debe0f149
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncher3_west.png
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncher4_south.png
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncherEX_north.png
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncher4_north.png
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncherEX_east.png
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncher2_east.png
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncher4_west.png
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncher5_west.png
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncherMini.png
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncherEX_west.png
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncher2_west.png
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncher2_north.png
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncher3_north.png
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncher4_east.png
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncher5_north.png
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncher5_south.png
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncher3_south.png
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncher2_south.png
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncherEX_south.png
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncher5_east.png
+- Assets/Data/Mlie.BetterPodLauncher/Textures/PodLauncher3_east.png
+Dependencies: []
